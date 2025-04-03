@@ -1,0 +1,8 @@
+datasets/
+output/
+test/
+*.cache
+
+*.pyc
+__pycache__/
+.DS_Store
